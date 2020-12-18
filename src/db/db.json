@@ -8,8 +8,84 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "jerembardon@gmail.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1608316456120,
+      "id": "9M9NKJJvSz4OOltudutSQ"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "Hello",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320512917,
+      "id": "n2QZgJMF7GbIpwBkYjv9y"
+    },
+    {
+      "message": "Hello",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320532954,
+      "id": "hl0OxJ4zDHpZbHJG2Pc_o"
+    },
+    {
+      "message": "Hello",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320541414,
+      "id": "LgRtPDATCLKF2QySIgHta"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320561107,
+      "id": "x779FMKWAeqwhBWyOGRqs"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320661003,
+      "id": "2oeE358qrjgS1PjwYbqZ5"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320662634,
+      "id": "Bg-uqXATIOfnKVw0KrDPT"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320687010,
+      "id": "5JD32_Vcovc7DmZSZIO5P"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320700571,
+      "id": "Q6dCL6zRRzFi4816StaoG"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608320756825,
+      "id": "3R0ygpyqhJnoxoKMfUdf3"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608321226604,
+      "id": "6ki1W4i13sknWTkROQpuL"
+    },
+    {
+      "message": "Another",
+      "author": "9M9NKJJvSz4OOltudutSQ",
+      "createdAt": 1608321243896,
+      "id": "9CRhMUo_GIVzxJ_aeu7jp"
+    }
+  ],
   "settings": []
 }

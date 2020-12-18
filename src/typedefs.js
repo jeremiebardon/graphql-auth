@@ -37,6 +37,10 @@ module.exports = gql`
     views: Int!
   }
 
+  type Item {
+    task: String
+  }
+
   type Settings {
     id: ID!
     user: User!
@@ -99,6 +103,10 @@ module.exports = gql`
     invite(input: InviteInput!): Invite!
     signup(input: SignupInput!): AuthUser!
     signin(input: SigninInput!): AuthUser!
+  }
+
+  type Subscription {
+    newPost: Post
   }
 
 `
